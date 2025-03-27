@@ -1,6 +1,4 @@
-Aqui está o README formatado corretamente com os níveis de texto em Markdown:  
 
----
 
 # 📌 Controle de LED com Botão usando FreeRTOS no Raspberry Pi Pico  
 
